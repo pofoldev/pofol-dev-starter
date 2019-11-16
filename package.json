@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-starter-default",
+  "description": "포폴 데브를 위한 스타터",
+  "version": "0.1.0",
+  "dependencies": {
+    "gatsby": "^2.17.11",
+    "gatsby-image": "^2.2.31",
+    "gatsby-plugin-react-helmet": "^3.1.14",
+    "gatsby-source-filesystem": "^2.1.36",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve"
+  }
+}
